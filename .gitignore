@@ -1,0 +1,7 @@
+node_modules
+.keystone/admin
+.keystone/config.js
+keystone.db
+*.log
+.env
+.DS_Store
