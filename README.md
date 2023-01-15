@@ -27,3 +27,5 @@ yarn dev
 ```
 
 To view the config for your new app, look at [./keystone.ts](./keystone.ts)
+
+If you found this project useful, please consider giving it a ⭐️ on [GitHub](https://github.com/ijsto/keystone-with-oauth).
